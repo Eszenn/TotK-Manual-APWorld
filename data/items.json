@@ -2,85 +2,85 @@
 	{
 		"count":1,
 		"name": "Ultrahand",
-		"category": ["Abilities"],
+		"category": ["Abilities", "Demo"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Ascend",
-		"category": ["Abilities"],
+		"category": ["Abilities", "Demo"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Fuse",
-		"category": ["Abilities"],
+		"category": ["Abilities", "Demo"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Recall",
-		"category": ["Abilities"],
+		"category": ["Abilities", "Demo"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Paraglider",
-		"category": ["Equipment"],
+		"category": ["Equipment", "Demo"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Zonai Device - Fan",
-		"category": ["Zonai Devices"],
+		"category": ["Zonai Devices", "Demo"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Zonai Device - Flame Emitter",
-		"category": ["Zonai Devices"],
+		"category": ["Zonai Devices", "Demo"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Zonai Device - Portable Pot",
-		"category": ["Zonai Devices"],
+		"category": ["Zonai Devices", "Demo"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Cooking",
-		"category": ["Equipment"],
+		"category": ["Equipment", "Demo"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Archaic Tunic",
-		"category": ["Armor","Tunics","Archaic Set"],
+		"category": ["Armor","Tunics","Archaic Set", "Demo"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Archaic Legwear",
-		"category": ["Armor","Legwear","Archaic Set"],
+		"category": ["Armor","Legwear","Archaic Set", "Demo"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Archaic Warm Greaves",
-		"category": ["Armor","Legwear","Archaic Set","Cold Resistant Armor"],
+		"category": ["Armor","Legwear","Archaic Set","Cold Resistant Armor", "Demo"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Zonai Device - Wing",
-		"category": ["Zonai Devices"],
+		"category": ["Zonai Devices", "Demo"],
 		"progression": true
 	},
 	{
 		"count": "4",
 		"name": "Light of Blessing",
-		"category": ["Lights of Blessing"],
+		"category": ["Lights of Blessing", "Demo"],
 		"progression_skip_balancing": true
 	},
 	{
