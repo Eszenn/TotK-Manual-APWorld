@@ -120,7 +120,7 @@
 		"requires": "|Ultrahand| OR |Ascend| OR |Paraglider|"
 	},
 	{
-		"name": "Chest in ed Building (0314, -1628, 1417)",
+		"name": "Chest in Ruined Building (0314, -1628, 1417)",
 		"region": "Great Sky Island",
 		"category": ["Chests"],
 		"requires": "|Ultrahand| OR |Paraglider| OR |Cooking| OR |@Cold Resistant Armor:1|"
