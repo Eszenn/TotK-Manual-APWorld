@@ -1,0 +1,362 @@
+[
+	{
+		"region": "Great Sky Island",
+		"name": "Great Sky Island - Flower Trail Korok (0521, -1323, 1418)",
+		"category": ["Koroks","Flower Trail Koroks"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Urkouh Shrine - Ultrahand",
+		"region": "Urkouh Shrine",
+		"category": ["Urkouh Shrine","Shrines"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Urkouh Shrine - Chest in Corner",
+		"region": "Urkouh Shrine",
+		"category": ["Urkouh Shrine","Chests","Shrines"],
+		"requires": "|Ultrahand|"
+	},
+	{
+		"name": "Great Sky Island - Urkouh Shrine - Light of Blessing",
+		"region": "Urkouh Shrine",
+		"category": ["Urkouh Shrine","Shrines"],
+		"requires": "|Ultrahand|"
+	},
+	{
+		"name": "Great Sky Island - Chest by Urkouh Shrine (0281, -0922, 1392)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Fairy Light Korok (0263, -0817, 1443)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Fairy Light Koroks"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Chest on Lone Island (0081, -0991, 1418)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "|Ultrahand|"
+	},
+	{
+		"name": "Great Sky Island - Korok Under Rock (0113, -1081, 1417)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Rock Koroks"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Backpack Korok (0018, -1263, 1418)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Backpack Koroks"],
+		"requires": "|Ultrahand|"
+	},
+	{
+		"name": "Great Sky Island - Monster Chest (0121, -1271, 1416)",
+		"region": "Great Sky Island",
+		"category": ["Chests","Monster Chests"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - In-isa Shrine - Fuse",
+		"region": "In-isa Shrine",
+		"category": ["In-isa Shrine","Shrines"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - In-isa Shrine - Chest on Stone Pillar",
+		"region": "In-isa Shrine",
+		"category": ["In-isa Shrine","Shrines","Chests"],
+		"requires": "|Fuse| OR |Ultrahand|"
+	},
+	{
+		"name": "Great Sky Island - In-isa Shrine - Light of Blessing",
+		"region": "In-isa Shrine",
+		"category": ["In-isa Shrine","Shrines"],
+		"requires": "|Fuse| OR |Ultrahand|"
+	},
+	{
+		"name": "Great Sky Island - Chest by In-isa Shrine (0024, -1526, 1408)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "|Fuse|"
+	},
+	{
+		"name": "Great Sky Island - Korok Under Rock (0023, -1558, 1452)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Rock Koroks"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Chest Beneath Large Lake (0130, -1449, 1374)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Chest by Construct Camp (0141, -1587, 1379)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Pondside Cave Bubbulfrog (0240, -1615, 1368)",
+		"region": "Great Sky Island",
+		"category": ["Bubbulfrogs"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Korok Under Rock (0229, -1643, 1406)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Rock Koroks"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Chest on Raised Platform (0275, -1715, 1355)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "|Ultrahand| OR |Ascend| OR |Paraglider|"
+	},
+	{
+		"name": "Great Sky Island - Chest in ed Building (0314, -1628, 1417)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "|Ultrahand| OR |Paraglider| OR |Cooking| OR |@Cold Resistant Armor:1|"
+	},
+	{
+		"name": "Great Sky Island - Backpack Korok (0474, -1695, 1442)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Backpack Koroks"],
+		"requires": "|Ultrahand|"
+	},
+	{
+		"name": "Great Sky Island - Chest in Small Building (0432, -1807, 1449)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "|Ultrahand| OR |Paraglider| OR |Fuse|"
+	},
+	{
+		"name": "Great Sky Island - Chest in Small Building (0570, -1674, 1468)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Monster Chest (0471, -1605, 1410)",
+		"region": "Great Sky Island",
+		"category": ["Chests","Monster Chests"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Mining Cave Bubbulfrog (0405, -1680, 1384)",
+		"region": "Great Sky Island",
+		"category": ["Bubbulfrogs"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Pit Cave Bubbulfrog (0627, -1637, 1445)",
+		"region": "Great Sky Island",
+		"category": ["Bubbulfrogs"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Block Puzzle Korok (0544, -1582, 1482)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Block Puzzle Koroks"],
+		"requires": "|Ultrahand| AND (|Cooking| OR |@Cold Resistant Armor:1|)"
+	},
+	{
+		"name": "Great Sky Island - Dandelion Tuft Korok (0622, -1657, 1507)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Dandelion Tuft Koroks"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Bottomless Cave Bubbulfrog (0741, -1442, 1486)",
+		"region": "Great Sky Island",
+		"category": ["Bubbulfrogs"],
+		"requires": "(|Cooking| OR |@Cold Resistant Armor:1|)"
+	},
+	{
+		"name": "Great Sky Island - Block Puzzle Korok (0629, -1530, 1443)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Block Puzzle Koroks"],
+		"requires": "|Ultrahand| AND (|Cooking| OR |@Cold Resistant Armor:1|)"
+	},
+	{
+		"name": "Great Sky Island - Gutanbac Shrine - Ascend",
+		"region": "Gutanbac Shrine",
+		"category": ["Gutanbac Shrine","Shrines"],
+		"requires": "|Cooking| OR |@Cold Resistant Armor:1|"
+	},
+	{
+		"name": "Great Sky Island - Gutanbac Shrine - Chest on Cube Platform",
+		"region": "Gutanbac Shrine",
+		"category": ["Gutanbac Shrine","Shrines","Chests"],
+		"requires": "(|Cooking| OR |@Cold Resistant Armor:1|) AND |Ascend|"
+	},
+	{
+		"name": "Great Sky Island - Gutanbac Shrine - Light of Blessing",
+		"region": "Gutanbac Shrine",
+		"category": ["Gutanbac Shrine","Shrines"],
+		"requires": "(|Cooking| OR |@Cold Resistant Armor:1|) AND |Ascend|"
+	},
+	{
+		"name": "Great Sky Island - Monster Chest in Ruins (0833, -1457, 1566)",
+		"region": "Great Sky Island",
+		"category": ["Chests","Monster Chests"],
+		"requires": "(|Cooking| OR |@Cold Resistant Armor:1|) AND (|Ascend| OR |Paraglider|)"
+	},
+	{
+		"name": "Great Sky Island - Chest Buried in Snow (0853, -1445, 1551)",
+		"region": "Great Sky Island",
+		"category": ["Chests","Buried Chests"],
+		"requires": "(|Cooking| OR |@Cold Resistant Armor:1|) AND |Ultrahand|"
+	},
+	{
+		"name": "Great Sky Island - Bottomless Cave Chest Guarded by Like Like (0767, -1369, 1544), ",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "(|Cooking| OR |@Cold Resistant Armor:1|)"
+	},
+	{
+		"name": "Great Sky Island - Bottomless Cave Chest Above Pit (0758, -1377, 1492)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "(|Cooking| OR |@Cold Resistant Armor:1|)"
+	},
+	{
+		"name": "Great Sky Island - Stone Circle Korok (0760, -1341, 1603)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Stone Circle Koroks"],
+		"requires": "(|Cooking| OR |@Cold Resistant Armor:1|)"
+	},
+	{
+		"name": "Great Sky Island - Chest in Small Building (0829, -1236, 1596)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "(|Cooking| OR |@Cold Resistant Armor:1|) AND (|Ultrahand| OR |Paraglider|)"
+	},
+	{
+		"name": "Great Sky Island - Chest in Ruined Building (0738, -1203, 1434)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "(|Cooking| OR |@Cold Resistant Armor:1|)"
+	},
+	{
+		"name": "Great Sky Island - Chest on Raised Platform (0512, -1100, 1435)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "|Ultrahand| OR |Ascend| OR (|Zonai Device - Wing| AND |Fuse|) OR |Paraglider|"
+	},
+	{
+		"name": "Great Sky Island - Chest by Flux Contstuct I (0543, -1418, 1455)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "(|Cooking| OR |@Cold Resistant Armor:1|) AND (|Ultrahand| OR |Paraglider|)"
+	},
+	{
+		"name": "Great Sky Island - Temple of Time - Recall",
+		"region": "Great Sky Island",
+		"category": ["Temple of Time"],
+		"requires": "|Light of Blessing:3|"
+	},
+	{
+		"name": "Great Sky Island - Nachoyah Shrine - Chest on Metal Platform",
+		"region": "Nachoyah Shrine",
+		"category": ["Chests","Nachoyah Shrine","Shrines"],
+		"requires": "|Recall|"
+	},
+	{
+		"name": "Great Sky Island - Nachoyah Shrine - Light of Blessing",
+		"region": "Nachoyah Shrine",
+		"category": ["Nachoyah Shrine","Shrines"],
+		"requires": "|Recall|"
+	},
+	{
+		"name": "Great Sky Island - Chest by Big Stump (0379, -1697, 2335)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Fairy Light Korok on Lilypad (0376, -1731, 2352)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Fairy Light Koroks"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Chest in Submerged Ruins (0501, -1612, 1789)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "|Ultrahand|"
+	},
+	{
+		"name": "Great Sky Island - Lilypad Circle Korok (0311, -1439, 2021)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Lilypad Circle Koroks"],
+		"requires": "|Ultrahand| OR |Paraglider|"
+	},
+	{
+		"name": "Great Sky Island - Stone Circle Korok (0427, -1501, 1506)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Stone Circle Koroks"],
+		"requires": "|Ultrahand| OR |Paraglider|"
+	},
+	{
+		"name": "Great Sky Island - Balloon Target Korok (0449, -1528, 1358)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Balloon Target Koroks"],
+		"requires": "|Fuse|"
+	},
+	{
+		"name": "Great Sky Island - Chest Next to Pond (0340, -1097, 1515)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "|Ultrahand|"
+	},
+	{
+		"name": "Great Sky Island - Chest in Ruined Building (0389, -1183, 1474)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "|Ultrahand|"
+	},
+	{
+		"name": "Great Sky Island - Underwater Chest (0589, -0912, 1474)",
+		"region": "Great Sky Island",
+		"category": ["Chests"],
+		"requires": "|Ultrahand|"
+	},
+	{
+		"name": "Great Sky Island - Temple of Time - Pray to the Statue of the Goddess",
+		"region": "Great Sky Island",
+		"category": ["Temple of Time"],
+		"requires": "|Light of Blessing:4|",
+		"place_item": ["Game Completion"]
+	},
+	{
+		"name": "Great Sky Island - Fairy Light Korok (0343, -1755, 2280)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Fairy Light Koroks"],
+		"requires": []
+	},
+	{
+		"name": "Great Sky Island - Defeat Flux Constuct I, Guardian of the Great Sky Island (0491, -1515, 1439)",
+		"region": "Great Sky Island",
+		"category": ["Minibosses"],
+		"requires": "|Ultrahand| AND (|Ascend| OR |Paraglider|)"
+	},
+	{
+		"name": "Great Sky Island - Ascend Stump Korok (0464, -0881, 1418)",
+		"region": "Great Sky Island",
+		"category": ["Koroks","Ascend Stump Koroks"],
+		"requires": "|Ascend|"
+	},
+	{
+		"name": "Game Completion",
+		"victory": true,
+		"requires": "|Game Completion|"
+	}
+]

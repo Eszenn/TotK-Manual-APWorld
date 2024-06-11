@@ -1,0 +1,92 @@
+[
+	{
+		"count":1,
+		"name": "Ultrahand",
+		"category": ["Abilities"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ascend",
+		"category": ["Abilities"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fuse",
+		"category": ["Abilities"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recall",
+		"category": ["Abilities"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Paraglider",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zonai Device - Fan",
+		"category": ["Zonai Devices"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zonai Device - Flame Emitter",
+		"category": ["Zonai Devices"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zonai Device - Portable Pot",
+		"category": ["Zonai Devices"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Cooking",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Archaic Tunic",
+		"category": ["Armor","Tunics","Archaic Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Archaic Legwear",
+		"category": ["Armor","Legwear","Archaic Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Archaic Warm Greaves",
+		"category": ["Armor","Legwear","Archaic Set","Cold Resistant Armor"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zonai Device - Wing",
+		"category": ["Zonai Devices"],
+		"progression": true
+	},
+	{
+		"count": "4",
+		"name": "Light of Blessing",
+		"category": ["Lights of Blessing"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Game Completion",
+		"category": [],
+		"progression": true
+	}
+]

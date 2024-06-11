@@ -1,0 +1,23 @@
+{
+	"Great Sky Island": {
+		"starting": true,
+		"connects_to": ["Urkouh Shrine","In-isa Shrine","Nachoyah Shrine","Gutanbac Shrine"],
+		"requires": []
+	},
+	"Urkouh Shrine": {
+		"connects_to": ["Great Sky Island"],
+		"requires": []
+	},
+	"In-isa Shrine": {
+		"connects_to": ["Great Sky Island"],
+		"requires": []
+	},
+	"Nachoyah Shrine": {
+		"connects_to": ["Great Sky Island"],
+		"requires": "|Recall| OR |Ascend|"
+	},
+	"Gutanbac Shrine": {
+		"connects_to": ["Great Sky Island"],
+		"requires": "|Cooking| OR |@Cold Resistant Armor:1|"
+	}
+}
