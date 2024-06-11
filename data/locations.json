@@ -120,7 +120,7 @@
 		"requires": "|Ultrahand| OR |Ascend| OR |Paraglider|"
 	},
 	{
-		"name": "Great Sky Island - Chest in ed Building (0314, -1628, 1417)",
+		"name": "Great Sky Island - Chest in Ruined Building (0314, -1628, 1417)",
 		"region": "Great Sky Island",
 		"category": ["Chests"],
 		"requires": "|Ultrahand| OR |Paraglider| OR |Cooking| OR |@Cold Resistant Armor:1|"
@@ -333,7 +333,7 @@
 		"name": "Great Sky Island - Temple of Time - Pray to the Statue of the Goddess",
 		"region": "Great Sky Island",
 		"category": ["Temple of Time"],
-		"requires": "|Light of Blessing:4|",
+		"requires": "|Light of Blessing:4| AND ((|Zonai Device - Wing| AND |Fuse|) OR |Recall|)",
 		"place_item": ["Game Completion"]
 	},
 	{
