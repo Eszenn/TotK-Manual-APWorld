@@ -29,4 +29,4 @@ The game is considered complete after passing through the door, but it's much mo
 ## Other Info
 For the purpose of this manual, the abilities normally obtained within the first 3 shrines are considered collected after entering the appropriate shrine for the first time.
 The Recall location is considered collected upon reaching the altar within the Temple of Time, which requires 3 Lights of Blessing to open.
-
+There are no restrictions on using naturally occurring Zonai Devices. Obtaining Zonai Device Capsules only allows you to use whatever capsules you have as you please.
