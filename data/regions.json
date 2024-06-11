@@ -14,7 +14,7 @@
 	},
 	"Nachoyah Shrine": {
 		"connects_to": ["Great Sky Island"],
-		"requires": "|Recall| OR |Ascend|"
+		"requires": []
 	},
 	"Gutanbac Shrine": {
 		"connects_to": ["Great Sky Island"],
