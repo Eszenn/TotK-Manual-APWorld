@@ -4,7 +4,7 @@ A manual APWorld for implementing the Great Sky Island area of Tears of the King
 ## Prerequisites
 Proper usage of this APWorld requires a save file that has cleared the Great Sky Island without collecting any koroks or chests, except for the 3 chests containing the Archaic armor set.
 Upon receiving the Paraglider, drop everything in your inventory, then warp back to the Room of Awakening. If you hard save here, you can back up your save with Nintendo Switch Online
-for reusability.
+for reusability. If you don't have NSO, you can instead avoid manually saving on this profile, as the game will not overwrite your latest manual save.
 
 ## Locations
 The following are all locations that must be checked:
