@@ -749,4 +749,242 @@
 		"category": ["Weapons", "Bows"],
 		"useful": true
 	}
+	,
+	{
+		"count":1,
+		"name": "Hylian Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Pot Lid",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Old Wooden Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Wooden Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Emblazoned Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Hunter's Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Fisherman's Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Traveler's Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Soldier's Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Knight's Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Royal Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Forest Dweller's Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Zora Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Kite Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Gerudo Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Radiant Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Radiant Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Daybreaker",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Shield of the Mind's Eye",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Sea-Breeze Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Rusty Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Royal Guard's Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Boko Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Spiked Boko Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Dragonbone Boko Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Lizal Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Reinforced Lizal Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Steel Lizal Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Zonaite Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Strong Zonaite Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Might Zonaite Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Lynel Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Mighty Lynel Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
+	,
+	{
+		"count":1,
+		"name": "Savage Lynel Shield",
+		"category": ["Shields"],
+		"useful": true
+	}
 ]
