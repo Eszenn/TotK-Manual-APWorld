@@ -568,5 +568,185 @@
 		"name": "Gloom Spear",
 		"category": ["Weapons", "Spears"],
 		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Old Wooden Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Wooden Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Traveler's Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Soldier's Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Knight's Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Royal Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Forest Dweller's Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zora Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Swallow Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Falcon Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Great Eagle Bow",
+		"category": ["Weapons", "Bows", "Legendary Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gerudo Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Phrenic Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Royal Guard's Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dusk Bow",
+		"category": ["Weapons", "Bows", "Legendary Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Boko Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Spiked Boko Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dragonbone Boko Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lizal Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Strengthened Lizal Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Steel Lizal Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lynel Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Might Lynel Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Savage Lynel Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Duplex Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Construct Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Strong Construct Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Mighty Construct Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zonaite Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Demon King's Bow",
+		"category": ["Weapons", "Bows"],
+		"useful": true
 	}
 ]
