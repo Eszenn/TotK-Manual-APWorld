@@ -92,7 +92,7 @@
 	{
 		"count":1,
 		"name": "Master Sword",
-		"category": ["Weapons", "Broadswords", "One-Hand Weapons", "Legendary Weapons"],
+		"category": ["Weapons", "One-Hand Weapons", "Legendary Weapons"],
 		"progression": true
 	},
 	{
@@ -116,55 +116,55 @@
 	{
 		"count":1,
 		"name": "Boomerang",
-		"category": ["Weapons", "Boomerangs", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Sea-Breeze Boomerang",
-		"category": ["Weapons", "Boomerangs", "One-Hand Weapons", "Legendary Weapons"],
+		"category": ["Weapons", "One-Hand Weapons", "Legendary Weapons"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Traveler's Sword",
-		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Soldier's Broadsword",
-		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Knight's Broadsword",
-		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Royal Broadsword",
-		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Forest Dweller's Sword",
-		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Zora Sword",
-		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Feathered Edge",
-		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
@@ -188,25 +188,25 @@
 	{
 		"count":1,
 		"name": "Rusty Broadsword",
-		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Sword of the Hero",
-		"category": ["Weapons", "Broadswords", "One-Hand Weapons", "Legendary Weapons"],
+		"category": ["Weapons", "One-Hand Weapons", "Legendary Weapons"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Royal Guard's Sword",
-		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "White Sword of the Sky",
-		"category": ["Weapons", "Broadswords", "One-Hand Weapons", "Legendary Weapons"],
+		"category": ["Weapons", "One-Hand Weapons", "Legendary Weapons"],
 		"useful": true
 	},
 	{
@@ -230,13 +230,13 @@
 	{
 		"count":1,
 		"name": "Lizal Boomerang",
-		"category": ["Weapons", "Boomerangs", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Zonaite Sword",
-		"category": ["Weapons", "Zonai Weapons", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"count":1,
 		"name": "Mighty Zonaite Sword",
-		"category": ["Weapons", "Zonai Weapons", "One-Hand Weapons"],
+		"category": ["Weapons", "One-Hand Weapons"],
 		"useful": true
 	},
 	{
@@ -273,6 +273,162 @@
 		"count":1,
 		"name": "Gloom Sword",
 		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Farming Hoe",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Boat Oar",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Giant Boomerang",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Traveler's Claymore",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Soldier's Claymore",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Knight's Claymore",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Royal Claymore",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zora Longsword",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Cobble Crusher",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Boulder Breaker",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Biggoron's Sword",
+		"category": ["Weapons", "Two-Hand Weapons", "Legendary Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gerudo Claymore",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Eightfold Longblade",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dusk Claymore",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Fierce Deity Sword",
+		"category": ["Weapons", "Two-Hand Weapons", "Legendary Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rusty Claymore",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Royal Guard's Claymore",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Thick Stick",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sturdy Thick Stick",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gnarled Thick Stick",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zonaite Longsword",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Strong Zonaite Longsword",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Might Zonaite Longsword",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Magic Scepter",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Moblin Arm",
+		"category": ["Weapons", "Two-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gloom Club",
+		"category": ["Weapons", "Two-Hand Weapons"],
 		"useful": true
 	}
 ]
