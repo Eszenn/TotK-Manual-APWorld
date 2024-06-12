@@ -430,5 +430,143 @@
 		"name": "Gloom Club",
 		"category": ["Weapons", "Two-Hand Weapons"],
 		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Wooden Mop",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Farmer's Pitchfork",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Harpoon",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Throwing Spear",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Traveler's Spear",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Soldier's Spear",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Knight's Halberd",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Royal Halberd",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Forest Dweller's Spear",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zora Spear",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lightscale Trident",
+		"category": ["Weapons", "Spears", "Legendary Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Feathered Spear",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gerudo Spear",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rusty Halberd",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Royal Guard's Spear",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Long Stick",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Strudy Long Stick",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gnarled Long Stick",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zonaite Spear",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Strong Zonaite Spear",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Mighty Zonaite Spear",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Magic Staff",
+		"category": ["Weapons", "Spears"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gloom Spear",
+		"category": ["Weapons", "Spears"],
+		"useful": true
 	}
 ]
