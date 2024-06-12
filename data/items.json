@@ -88,5 +88,191 @@
 		"name": "Game Completion",
 		"category": [],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Master Sword",
+		"category": ["Weapons", "Broadswords", "One-Hand Weapons", "Legendary Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree Branch",
+		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Torch",
+		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Soup Ladle",
+		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Boomerang",
+		"category": ["Weapons", "Boomerangs", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sea-Breeze Boomerang",
+		"category": ["Weapons", "Boomerangs", "One-Hand Weapons", "Legendary Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Traveler's Sword",
+		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Soldier's Broadsword",
+		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Knight's Broadsword",
+		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Royal Broadsword",
+		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Forest Dweller's Sword",
+		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zora Sword",
+		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Feathered Edge",
+		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gerudo Scimitar",
+		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Scimitar of the Seven",
+		"category": ["Weapons", "One-Hand Weapons", "Legendary Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Eightfold Blade",
+		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rusty Broadsword",
+		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sword of the Hero",
+		"category": ["Weapons", "Broadswords", "One-Hand Weapons", "Legendary Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Royal Guard's Sword",
+		"category": ["Weapons", "Broadswords", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "White Sword of the Sky",
+		"category": ["Weapons", "Broadswords", "One-Hand Weapons", "Legendary Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Wooden Stick",
+		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sturdy Wooden Stick",
+		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gnarled Wooden Stick",
+		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lizal Boomerang",
+		"category": ["Weapons", "Boomerangs", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zonaite Sword",
+		"category": ["Weapons", "Zonai Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Strong Zonaite Sword",
+		"category": ["Weapons", "Zonai Devices", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Mighty Zonaite Sword",
+		"category": ["Weapons", "Zonai Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Magic Rod",
+		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Bokoblin Arm",
+		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lizalfos Arm",
+		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gloom Sword",
+		"category": ["Weapons", "One-Hand Weapons"],
+		"useful": true
 	}
 ]
