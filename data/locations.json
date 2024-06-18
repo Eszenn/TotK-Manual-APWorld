@@ -315,13 +315,13 @@
 		"name": "Chest Next to Pond (0340, -1097, 1515)",
 		"region": "Great Sky Island",
 		"category": ["Chests"],
-		"requires": "|Ultrahand|"
+		"requires": "|Ultrahand| OR |Ascend|"
 	},
 	{
 		"name": "Chest in Ruined Building (0389, -1183, 1474)",
 		"region": "Great Sky Island",
 		"category": ["Chests"],
-		"requires": "|Ultrahand|"
+		"requires": "|Ultrahand| OR |Ascend|"
 	},
 	{
 		"name": "Underwater Chest (0589, -0912, 1474)",
@@ -333,7 +333,7 @@
 		"name": "Temple of Time - Pray to the Statue of the Goddess",
 		"region": "Great Sky Island",
 		"category": ["Temple of Time"],
-		"requires": "|Light of Blessing:4| AND ((|Zonai Device - Wing| AND |Fuse|) OR |Recall|)",
+		"requires": "|Light of Blessing:4| AND (|Fuse| OR |Recall|)",
 		"place_item": ["Game Completion"]
 	},
 	{
