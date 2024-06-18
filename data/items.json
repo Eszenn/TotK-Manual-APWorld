@@ -55,24 +55,6 @@
 	},
 	{
 		"count":1,
-		"name": "Archaic Tunic",
-		"category": ["Armor","Tunics","Archaic Set", "Demo"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Archaic Legwear",
-		"category": ["Armor","Legwear","Archaic Set", "Demo"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Archaic Warm Greaves",
-		"category": ["Armor","Legwear","Archaic Set","Cold Resistant Armor", "Demo"],
-		"progression": true
-	},
-	{
-		"count":1,
 		"name": "Zonai Device - Wing",
 		"category": ["Zonai Devices", "Demo"],
 		"progression": true
@@ -952,5 +934,1025 @@
 		"name": "Savage Lynel Shield",
 		"category": ["Shields"],
 		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hylian Hood",
+		"category": ["Armor", "Headpiece", "Hylian Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Soldier's Helm",
+		"category": ["Armor", "Headpiece", "Soldier's Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Snowquill Headdress",
+		"category": ["Armor", "Headpiece", "Cold Resistant Armor", "Snowquill Set"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Flamebreaker Helm",
+		"category": ["Armor", "Headpiece", "Fire Resistant Armor", "Flamebreaker Set"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zora Helm",
+		"category": ["Armor", "Headpiece", "Zora Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Desert Voe Headband",
+		"category": ["Armor", "Headpiece", "Heat Resistant Armor", "Desert Voe Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rubber Helm",
+		"category": ["Armor", "Headpiece", "Rubber Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Stealth Mask",
+		"category": ["Armor", "Headpiece", "Stealth Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Climber's Bandanna",
+		"category": ["Armor", "Headpiece", "Climbing Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Barbarian Helm",
+		"category": ["Armor", "Headpiece", "Barbarian Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Radiant Mask",
+		"category": ["Armor", "Headpiece", "Radiant Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Royal Guard Cap",
+		"category": ["Armor", "Headpiece", "Royal Guard Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Froggy Hood",
+		"category": ["Armor", "Headpiece", "Froggy Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Glide Mask",
+		"category": ["Armor", "Headpiece", "Glide Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hood of the Depths",
+		"category": ["Armor", "Headpiece", "Depths Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Miner's Mask",
+		"category": ["Armor", "Headpiece", "Miner Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Mystic Headpiece",
+		"category": ["Armor", "Headpiece", "Mystic Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ember Headdress",
+		"category": ["Armor", "Headpiece", "Ember Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Charged Headdress",
+		"category": ["Armor", "Headpiece", "Charged Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Frostbite Headdress",
+		"category": ["Armor", "Headpiece", "Frostbite Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Yiga Mask",
+		"category": ["Armor", "Headpiece", "Yiga Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Vah Medoh Divine Helm",
+		"category": ["Armor", "Headpiece", "Divine Helms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Vah Rudania Divine Helm",
+		"category": ["Armor", "Headpiece", "Divine Helms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Vah Ruta Divine Helm",
+		"category": ["Armor", "Headpiece", "Divine Helms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Vah Naboris Divine Helm",
+		"category": ["Armor", "Headpiece", "Divine Helms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zonaite Helm",
+		"category": ["Armor", "Headpiece", "Zonaite Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Diamond Circlet",
+		"category": ["Armor", "Headpiece", "Gem Headpieces"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ruby Circlet",
+		"category": ["Armor", "Headpiece", "Gem Headpieces"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sapphire Circlet",
+		"category": ["Armor", "Headpiece", "Gem Headpieces"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Topaz Earrings",
+		"category": ["Armor", "Headpiece", "Gem Headpieces"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Opal Earrings",
+		"category": ["Armor", "Headpiece", "Gem Headpieces"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Amber Earrings",
+		"category": ["Armor", "Headpiece", "Gem Headpieces"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Well-Worn Hair Band",
+		"category": ["Armor", "Headpiece", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Cece Hat",
+		"category": ["Armor", "Headpiece", "Cece Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lightning Helm",
+		"category": ["Armor", "Headpiece", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Bokoblin Mask",
+		"category": ["Armor", "Headpiece", "Monster Masks"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Horriblin Mask",
+		"category": ["Armor", "Headpiece", "Monster Masks"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Moblin Mask",
+		"category": ["Armor", "Headpiece", "Monster Masks"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lizalfos Mask",
+		"category": ["Armor", "Headpiece", "Monster Masks"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lynel Mask",
+		"category": ["Armor", "Headpiece", "Monster Masks"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ravio's Hood",
+		"category": ["Armor", "Headpiece", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zant's Helmet",
+		"category": ["Armor", "Headpiece", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Midna's Helmet",
+		"category": ["Armor", "Headpiece", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Majora's Mask",
+		"category": ["Armor", "Headpiece", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Korok Mask",
+		"category": ["Armor", "Headpiece", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tingle's Hood",
+		"category": ["Armor", "Headpiece", "Tingle Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Phantom Helmet",
+		"category": ["Armor", "Headpiece", "Phantom Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Evil Spirit Mask",
+		"category": ["Armor", "Headpiece", "Evil Spirit Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sheik's Mask",
+		"category": ["Armor", "Headpiece", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dark Hood",
+		"category": ["Armor", "Headpiece", "Dark Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Feirce Deity Mask",
+		"category": ["Armor", "Headpiece", "Feirce Deity Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Mask of Awakening",
+		"category": ["Armor", "Headpiece", "Hero of Awakening Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Cap of the Wild",
+		"category": ["Armor", "Headpiece", "Hero of the Wild Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Cap of the Hero",
+		"category": ["Armor", "Headpiece", "Hero Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Cap of Time",
+		"category": ["Armor", "Headpiece", "Hero of Time Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Cap of the Wind",
+		"category": ["Armor", "Headpiece", "Hero of Winds Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Cap of Twilight",
+		"category": ["Armor", "Headpiece", "Hero of Twilight Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Cap of the Sky",
+		"category": ["Armor", "Headpiece", "Hero of the Sky Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Hero's Aspect",
+		"category": ["Armor", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Archaic Tunic",
+		"category": ["Armor","Chestpieces","Archaic Set", "Demo"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hylian Tunic",
+		"category": ["Armor", "Chestpieces", "Hylian Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Soldier's Armor",
+		"category": ["Armor", "Chestpieces", "Soldier's Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Snowquill Tunic",
+		"category": ["Armor", "Chestpieces", "Cold Resistant Armor", "Snowquill Set"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Flamebreaker Armor",
+		"category": ["Armor", "Chestpieces", "Fire Resistant Armor", "Flamebreaker Set"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zora Armor",
+		"category": ["Armor", "Chestpieces", "Zora Set"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Desert Voe Spaulder",
+		"category": ["Armor", "Chestpieces", "Fire Resistant Armor", "Desert Voe Set"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rubber Armor",
+		"category": ["Armor", "Chestpieces", "Rubber Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Stealth Chest Guard",
+		"category": ["Armor", "Chestpieces", "Stealth Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Climbing Gear",
+		"category": ["Armor", "Chestpieces", "Climbing Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Barbarian Armor",
+		"category": ["Armor", "Chestpieces", "Barbarian Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Radiant Shirt",
+		"category": ["Armor", "Chestpieces", "Radiant Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Royal Guard Uniform",
+		"category": ["Armor", "Chestpieces", "Royal Guard Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Froggy Sleeve",
+		"category": ["Armor", "Chestpieces", "Froggy Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Glide Shirt",
+		"category": ["Armor", "Chestpieces", "Glide Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tunic of the Depths",
+		"category": ["Armor", "Chestpieces", "Depths Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Miner's Top",
+		"category": ["Armor", "Chestpieces", "Miner Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Mystic Robe",
+		"category": ["Armor", "Chestpieces", "Mystic Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ember Shirt",
+		"category": ["Armor", "Chestpieces", "Ember Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Charged Shirt",
+		"category": ["Armor", "Chestpieces", "Charged Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Frostbite Shirt",
+		"category": ["Armor", "Chestpieces", "Frostbite Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Yiga Armor",
+		"category": ["Armor", "Chestpieces", "Yiga Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zonaite Waistguard",
+		"category": ["Armor", "Chestpieces", "Zonaite Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tunic of Memories",
+		"category": ["Armor", "Chestpieces", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Champion's Leathers",
+		"category": ["Armor", "Chestpieces", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Island Lobster Shirt",
+		"category": ["Armor", "Chestpieces", "Heat Resistant Armor"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tingle's Shirt",
+		"category": ["Armor", "Chestpieces", "Tingle Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Phantom Armor",
+		"category": ["Armor", "Chestpieces", "Phantom Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Evil Spirit Armor",
+		"category": ["Armor", "Chestpieces", "Evil Spirit Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dark Tunic",
+		"category": ["Armor", "Chestpieces", "Dark Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Feirce Deity Armor",
+		"category": ["Armor", "Chestpieces", "Feirce Deity Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tunic of Awakening",
+		"category": ["Armor", "Chestpieces", "Hero of Awakening Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tunic of the Wild",
+		"category": ["Armor", "Chestpieces", "Hero of the Wild Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tunic of the Hero",
+		"category": ["Armor", "Chestpieces", "Hero Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tunic of Time",
+		"category": ["Armor", "Chestpieces", "Hero of Time Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tunic of the Wind",
+		"category": ["Armor", "Chestpieces", "Hero of Winds Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tunic of Twilight",
+		"category": ["Armor", "Chestpieces", "Hero of Twilight Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tunic of the Sky",
+		"category": ["Armor", "Chestpieces", "Hero of the Sky Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Archaic Legwear",
+		"category": ["Armor","Legwear","Archaic Set", "Demo"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Archaic Warm Greaves",
+		"category": ["Armor","Legwear","Archaic Set","Cold Resistant Armor", "Demo"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hylian Trousers",
+		"category": ["Armor", "Legwear", "Hylian Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Soldier's Greaves",
+		"category": ["Armor", "Legwear", "Soldier's Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Snowquill Trousers",
+		"category": ["Armor", "Legwear", "Snowquill Set"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Flamebreaker Boots",
+		"category": ["Armor", "Legwear", "Fire Resistant Armor", "Flamebreaker Set"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zora Greaves",
+		"category": ["Armor", "Legwear", "Zora Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Desert Voe Trousers",
+		"category": ["Armor", "Legwear", "Heat Resistant Armor", "Desert Voe Set"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rubber Tights",
+		"category": ["Armor", "Legwear", "Rubber Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Stealth Tights",
+		"category": ["Armor", "Legwear", "Stealth Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Climbing Boots",
+		"category": ["Armor", "Legwear", "Climbing Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Barbarian Leg Wraps",
+		"category": ["Armor", "Legwear", "Barbarian Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Radiant Tights",
+		"category": ["Armor", "Legwear", "Radiant Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Royal Guard Boots",
+		"category": ["Armor", "Legwear", "Royal Guard Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Froggy Leggings",
+		"category": ["Armor", "Legwear", "Froggy Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Glide Tights",
+		"category": ["Armor", "Legwear", "Glide Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gaiters of the Depths",
+		"category": ["Armor", "Legwear", "Depths Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Miner's Trousers",
+		"category": ["Armor", "Legwear", "Miner Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Mystic Trousers",
+		"category": ["Armor", "Legwear", "Mystic Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ember Trousers",
+		"category": ["Armor", "Legwear", "Ember Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Charged Trousers",
+		"category": ["Armor", "Legwear", "Charged Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Frostbite Trousers",
+		"category": ["Armor", "Legwear", "Frostbite Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Yiga Tights",
+		"category": ["Armor", "Legwear", "Yiga Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zonaite Shin Guard",
+		"category": ["Armor", "Legwear", "Zonaite Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sand Boots",
+		"category": ["Armor", "Legwear", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Snow Boots",
+		"category": ["Armor", "Legwear", "Unique"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tingle's Tights",
+		"category": ["Armor", "Legwear", "Tingle Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Phantom Greaves",
+		"category": ["Armor", "Legwear", "Phantom Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Evil Spirit Greaves",
+		"category": ["Armor", "Legwear", "Evil Spirit Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dark Trousers",
+		"category": ["Armor", "Legwear", "Dark Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Feirce Deity Boots",
+		"category": ["Armor", "Legwear", "Feirce Deity Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Trousers of Awakening",
+		"category": ["Armor", "Legwear", "Hero of Awakening Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Trousers of the Wild",
+		"category": ["Armor", "Legwear", "Hero of the Wild Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Trousers of the Hero",
+		"category": ["Armor", "Legwear", "Hero Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Trousers of Time",
+		"category": ["Armor", "Legwear", "Hero of Time Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Trousers of the Wind",
+		"category": ["Armor", "Legwear", "Hero of Winds Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Trousers of Twilight",
+		"category": ["Armor", "Legwear", "Hero of Twilight Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Trousers of the Sky",
+		"category": ["Armor", "Legwear", "Hero of the Sky Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Archaic Set",
+		"category": ["Armor Sets", "Archaic Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Barbarian Set",
+		"category": ["Armor Sets", "Barbarian Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Charged Set",
+		"category": ["Armor Sets", "Charged Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Climbing Set",
+		"category": ["Armor Sets", "Climbing Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dark Set",
+		"category": ["Armor Sets", "Dark Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Depths Set",
+		"category": ["Armor Sets", "Depths Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Desert Voe Set",
+		"category": ["Armor Sets", "Heat Resistant Armor", "Desert Voe Set"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ember Set",
+		"category": ["Armor Sets", "Ember Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Evil Spirit Set",
+		"category": ["Armor Sets", "Evil Spirit Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Feirce Deity Set",
+		"category": ["Armor Sets", "Feirce Deity Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Flamebreaker Set",
+		"category": ["Armor Sets", "Fire Resistant Armor", "Flamebreaker Set"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Froggy Set",
+		"category": ["Armor Sets", "Froggy Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Frostbite Set",
+		"category": ["Armor Sets", "Frostbite Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Glide Set",
+		"category": ["Armor Sets", "Glide Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hero Set",
+		"category": ["Armor Sets", "Hero Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hero of Awakening Set",
+		"category": ["Armor Sets", "Hero of Awakening Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hero of Time Set",
+		"category": ["Armor Sets", "Hero of Time Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hero of Twilight Set",
+		"category": ["Armor Sets", "Hero of Twilight Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hero of Winds Set",
+		"category": ["Armor Sets", "Hero of Winds Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hero of the Sky Set",
+		"category": ["Armor Sets", "Hero of the Sky Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hero of the Wild Set",
+		"category": ["Armor Sets", "Hero of the Wild Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hylian Set",
+		"category": ["Armor Sets", "Hylian Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Miner Set",
+		"category": ["Armor Sets", "Miner Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Mystic Set",
+		"category": ["Armor Sets", "Mystic Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Phantom Set",
+		"category": ["Armor Sets", "Phantom Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Radiant Set",
+		"category": ["Armor Sets", "Radiant Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Royal Guard Set",
+		"category": ["Armor Sets", "Royal Guard Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Rubber Set",
+		"category": ["Armor Sets", "Rubber Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Snowquill Set",
+		"category": ["Armor Sets", "Cold Resistant Armor", "Snowquill Set"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Soldier's Set",
+		"category": ["Armor Sets", "Soldier's Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Stealth Set",
+		"category": ["Armor Sets", "Stealth Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tingle Set",
+		"category": ["Armor Sets", "Tingle Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Yiga Set",
+		"category": ["Armor Sets", "Yiga Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zonaite Set",
+		"category": ["Armor Sets", "Zonaite Set"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Zora Set",
+		"category": ["Armor Sets", "Zora Set"],
+		"progression": true
 	}
 ]
